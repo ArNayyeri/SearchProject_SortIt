@@ -1,0 +1,4 @@
+p1=RRB,p2=BBB,p3=RR,p4=BBB,p5=B
+P1,p2
+P1,p3
+P1,p3
